@@ -1,0 +1,9 @@
+ARCH="amd64-dfbsd"
+CFLAGS="-march=native -O2 -pipe"
+CXXFLAGS="${CFLAGS}"
+
+ACCEPT_KEYWORDS="amd64-dfbsd"
+
+VIDEO_CARDS="apm ark chips cirrus cyrix dummy i128 intel mach64 mga \
+	neomagic nv r128 radeon rendition s3 s3virge savage siliconmotion sis \
+	sisusb tga trident tseng via vmware"

@@ -1,0 +1,2 @@
+CHOST="x86_64-gentoo-dfbsd4.3"
+CHOST_amd64_dfbsd="x86_64-gentoo-dfbsd4.3"
